@@ -1,0 +1,42 @@
+
+  Epub Reader, providing a smooth ebook reading experience. Support viewing CHM, EPUB, PDF, RTF, TXT. Support to open the compressed package format ZIP, RAR, 7Zip, GZIP, TAR, CBZ, CBR.
+
+How to import files?
+1. Import files from other apps
+2. Import files from computer, you can transfer files to EpubReader via WiFi wireless transfer
+3. Import files from Files/iCloud Drive
+4. Import files from cloud disk Dropbox, GoogleDirve.
+
+Transfer files and start reading......
+
+
+
+Epub Reader，提供流畅的电子书阅读体验。支持查看 CHM、EPUB、PDF、RTF、TXT。支持打开压缩包格式ZIP、RAR、7Zip、GZIP、TAR、CBZ、CBR。
+
+如何导入文件
+1、从其他APP导入文件
+2、从电脑导入文件，您可以通过WiFi无线传输将文件传输到EpubReader
+3、从Files/iCloud Drive导入文件
+4、从云盘Dropbox，GoogleDirve导入文件。
+
+传输文件开始浏览吧
+
+
+
+スムーズな電子ブックの読書体験を提供する Epub リーダー。 CHM、EPUB、PDF、RTF、TXT の表示をサポートします。 圧縮パッケージ形式の ZIP、RAR、7Zip、GZIP、TAR、CBZ、CBR を開くためのサポート。
+ファイルをインポートする方法は?
+1. 他のアプリからファイルをインポートする
+2. コンピューターからファイルをインポートします。WiFi ワイヤレス転送を介してファイルを EpubReader に転送できます。
+3. ファイル/iCloud ドライブからファイルをインポートする
+4. クラウド ディスク Dropbox、GoogleDirve からファイルをインポートします。
+
+
+
+Epub Reader, обеспечивающий плавное чтение электронных книг.Поддержка просмотра CHM, EPUB, PDF, RTF, TXT. Поддержка открытия сжатых форматов пакетов ZIP, RAR, 7Zip, GZIP, TAR, CBZ, CBR.
+Как импортировать файлы?
+1. Импорт файлов из других приложений
+2. Импортируйте файлы с компьютера, вы можете передавать файлы в EpubReader через беспроводную передачу WiFi.
+3. Импорт файлов из Files/iCloud Drive
+4. Импортировать файлы с облачного диска Dropbox, GoogleDirve.
+
+
