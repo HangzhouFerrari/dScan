@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>dScan - Document scanner without any bloat.</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="Source/logo.png">
 </head>
 <style>
     body {
@@ -23,7 +24,7 @@
     .image {
         width: 100px;
         height: 100px;
-        background-image: url('source/logo.png');
+        background-image: url('Source/logo.png');
         background-size: contain;
         background-repeat: no-repeat;
         margin: 0 auto 20px auto;
@@ -62,6 +63,7 @@
     button:hover {
         filter: brightness(1.5);
         transform: scale(1.05);
+        transition: all 0.1s ease;
     }
 
     .downloads {
@@ -87,24 +89,18 @@
 </body>
 
 <script>
-/* filepath: c:\Users\Julian\Documents\GitHub\dScan\index.html */
-/* Zorg dat .downloads altijd dezelfde totale breedte heeft als .tagline */
 (function syncDownloadsWidth() {
     const tagline = document.querySelector('.tagline');
     const downloads = document.querySelector('.downloads');
     if (!tagline || !downloads) return;
 
     function update() {
-        // meet de zichtbare breedte van de tagline (inclusief letterspacing e.d.)
         const w = Math.ceil(tagline.getBoundingClientRect().width);
-        // stel de totale breedte van .downloads gelijk (box-sizing: border-box zorgt dat padding meegerekend wordt)
         downloads.style.width = w + 'px';
     }
 
-    // initialisatie en herberekenen bij venstergrootte-wijziging
     window.addEventListener('load', update);
     window.addEventListener('resize', update);
-    // ook direct aanroepen voor snelle initialisatie
     update();
 })();
 </script>
